@@ -1,0 +1,12 @@
+---
+# vars file for Apache2
+
+app_user: "ubuntu"
+http_host: "uchennaaltschool.me"
+http_conf: "mini-project"
+http_port: "80"
+disable_default: true
+document_root: /var/www/html
+
+
+

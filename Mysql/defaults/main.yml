@@ -1,0 +1,6 @@
+---
+ mysql_root_password: MYSQL_ROOT_PASSWORD
+ mysql_app_db: mini-project
+ mysql_app_user: ubuntu
+ mysql_app_pass: 1234567
+ mysql_user_name: root
